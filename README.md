@@ -19,19 +19,19 @@ Este repositorio es mi diario de aprendizaje en Backend 1. Aquí vas a encontrar
 ## 🧪 ¿Cómo usar este repo?
 
 1. Clona el repositorio:
-   ```bash```
+   ```bash
    git clone https://github.com/MartaFuentes-mcr/Backend_01.git
 
-Entra a la carpeta de la clase que quieras:
-```bash```
+2.Entra a la carpeta de la clase que quieras:
+bash
 2 cd clase_01
 
-Instala las dependencias:
-```bash```
+3.Instala las dependencias:
+bash
 3 npm install
 
-¡Ejecuta y experimenta!
-```bash```
+4.¡Ejecuta y experimenta!
+bash
 4 node server.js
 
 💡 Consejo del día
