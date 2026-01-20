@@ -1,10 +1,10 @@
 Este repositorio es mi diario de aprendizaje en Backend 1. Aquí vas a encontrar:
 
-✅ Código de clases
-✅ Ejercicios prácticos
-✅ Proyectos pequeños (y no tan pequeños)
-✅ Errores comentados (porque sí, los guardo para reírme luego 😉)
-✅ Documentación minimalista pero útil
+-**✅ Código de clases**
+-**✅ Ejercicios prácticos**
+-**✅ Proyectos pequeños (y no tan pequeños)**
+-**✅ Errores comentados (porque sí, los guardo para reírme luego 😉)**
+-**✅ Documentación minimalista pero útil**
 
 ## 🛠️ Tecnologías usadas
 
