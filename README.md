@@ -49,3 +49,8 @@ Este repo es personal, pero si ves un error o quieres sugerir una mejora… ¡bi
 ⚠️ Disclaimer: Este repo puede contener código mal escrito, comentarios absurdos y mucha pasión por aprender. No responsables por risas repentinas al leer los comentarios.
 
 ✨ ¡Bienvenidos al lado oscuro… del servidor!
+
+
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express.js-4.x-blue)](https://expressjs.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
